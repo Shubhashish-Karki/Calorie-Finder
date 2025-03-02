@@ -1,7 +1,7 @@
 
 # Calorie-finder
 
-This project is a simple Django web application that allows users to search for foods and see their calorie content. The project integrates with the [NinjaAPI Nutrition API](), which provides detailed nutritional information. 
+This project is a simple Django web application that allows users to search for foods and see their calorie content. The project integrates with the [NinjaAPI Nutrition API](https://www.api-ninjas.com/), which provides detailed nutritional information. 
 
 ## Requirements
 
@@ -64,8 +64,6 @@ To access the NinjaAPI Nutrition API, you will need an API key.
 - Simply enter the food item into the search bar, and the app will display the calorie information.
 
 
-### Contributing
 
-If you'd like to contribute to this project, feel free to fork the repository and submit a pull request.
 
 
