@@ -1,0 +1,77 @@
+body {
+    background-color: #92c8fe;
+  }
+  
+  .logo {
+    width: 450px;
+    height: 350px;
+  }
+  
+  h1 {
+    font-weight: 300;
+  }
+  
+  h1 strong {
+    font-weight: 600;
+    color: #4b8673;
+  }
+  
+  .inputstyle {
+    padding: 20px !important;
+    border-radius: 10px !important;
+  }
+  
+  /* .whoop {
+    background-color: #5f89d0;
+    width: 8em;
+    font-size: 30px !important;
+    color: #ffffff;
+  } */
+  
+  .caloriescont {
+    height: 650px;
+    overflow-y: auto;
+    background-color: #ffffff;
+    padding: 30px;
+  }
+  
+  .caloriescont ul {
+    padding: 0px;
+  }
+  
+  .caloriescont ul li {
+    list-style: none;
+    margin-bottom: 20px;
+    border-bottom: 1px solid #efefef;
+    width: 80%;
+  }
+  
+  .caloriescont h3 {
+    color: #4b8673;
+    font-size: 2em;
+    text-transform: capitalize;
+    font-weight: 700;
+  }
+  
+  .caloriescont h5 {
+    color: #4b8673;
+  }
+  
+  .servingsize {
+    background-color: #000000;
+    padding: 10px;
+    color: #ffffff;
+  }
+
+  .btn.whoop {
+    background-color: #ee7b0f !important; /* Custom background color */
+    color: white !important; /* Text color */
+    border-radius: 10px !important; /* Rounded corners */
+    padding: 10px 30px !important; /* Padding */
+    font-size: 16px !important; /* Font size */
+}
+
+.btn.whoop:hover{
+  box-shadow: 0 0 10px #0ff, 0 0 40px #0ff;
+  transform: scale(1.2);
+}
